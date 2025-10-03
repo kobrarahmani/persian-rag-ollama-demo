@@ -3,11 +3,6 @@
 ## Based On
 Modified from [llm-rag-with-reranker-demo](https://github.com/yankeexe/llm-rag-with-reranker-demo)
 
-# Persian RAG with Ollama Embeddings
-
-## Based On
-Modified from [llm-rag-with-reranker-demo](https://github.com/yankeexe/llm-rag-with-reranker-demo)
-
 ## 🔨 Setup
 
 ```bash
