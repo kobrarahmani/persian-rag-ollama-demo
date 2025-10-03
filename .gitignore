@@ -1,0 +1,17 @@
+# Database files - DON'T UPLOAD
+chroma_db/
+*.db
+*.sqlite3
+*.sqlite
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Secret files
+.env
+secrets.txt
+
+# Large AI model files
+*.gguf
+models/
