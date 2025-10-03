@@ -3,7 +3,6 @@
 ## Based On
 Modified from [llm-rag-with-reranker-demo](https://github.com/yankeexe/llm-rag-with-reranker-demo)
 
-```markdown
 # Persian RAG with Ollama Embeddings
 
 ## Based On
@@ -19,17 +18,18 @@ setup.bat
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 ## ⚡️ Running the Application
-bash
+```bash
 run.bat
 # OR
 streamlit run app.py
-
+```
 ## 🧠 Model Setup
-bash
+```bash
 # 1. Download Persian Embeddings
 git clone https://huggingface.co/alishendi/persian-embeddings
 
 # 2. Set up Ollama
 ollama pull nomic-embed-text
+```
